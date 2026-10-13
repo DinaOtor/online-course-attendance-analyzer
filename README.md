@@ -47,6 +47,6 @@ Run from the repository directory: the scripts use relative paths to the sample 
 ## Contributors
 
 - Dina Otor
-- Hala Khalil *(name inferred from the submission filename; confirm spelling before publishing)*
+- Hala Khalil 
 
 Academic team project.
